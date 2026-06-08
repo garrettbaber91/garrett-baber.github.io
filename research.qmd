@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+# Research Program
+
+My research investigates how sleep and dreaming relate to emotional functioning and psychological health.
+
+## Dreaming and Affect Regulation
+
+My dissertation examines whether emotional experiences in dreams contribute to next-day emotional functioning and PTSD symptoms.
+
+## AI and Dream Analysis
+
+I use machine learning and large language models to quantify dream content and emotional experiences.
+
+## Sleep Health Interventions
+
+I collaborate on projects investigating insomnia treatment, sleep health, and polysomnographic predictors of treatment outcomes.

@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Curriculum Vitae\nDownload CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Garrett R Baber",
+    "section": "",
+    "text": "Doctoral Candidate in Clinical Psychological Science\nUniversity of Kansas\n\n\nI am a doctoral candidate in Clinical Psychological Science at the University of Kansas, heading to VA Palo Alto for my residency.\nMy research focuses on:\n\nDreaming\nSleep and insomnia\nNightmares\nPTSD\nEmotion regulation\nArtificial intelligence and large language models\n\nI am particularly interested in how dream experiences relate to waking emotional functioning and mental health.\nDownload CV"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Garrett R Baber",
+    "section": "",
+    "text": "I am a doctoral candidate in Clinical Psychological Science at the University of Kansas, heading to VA Palo Alto for my residency.\nMy research focuses on:\n\nDreaming\nSleep and insomnia\nNightmares\nPTSD\nEmotion regulation\nArtificial intelligence and large language models\n\nI am particularly interested in how dream experiences relate to waking emotional functioning and mental health.\nDownload CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research investigates how sleep and dreaming relate to emotional functioning and psychological health.\n\n\nMy dissertation examines whether emotional experiences in dreams contribute to next-day emotional functioning and PTSD symptoms.\n\n\n\nI use machine learning and large language models to quantify dream content and emotional experiences.\n\n\n\nI collaborate on projects investigating insomnia treatment, sleep health, and polysomnographic predictors of treatment outcomes."
+  },
+  {
+    "objectID": "research.html#dreaming-and-affect-regulation",
+    "href": "research.html#dreaming-and-affect-regulation",
+    "title": "Research",
+    "section": "",
+    "text": "My dissertation examines whether emotional experiences in dreams contribute to next-day emotional functioning and PTSD symptoms."
+  },
+  {
+    "objectID": "research.html#ai-and-dream-analysis",
+    "href": "research.html#ai-and-dream-analysis",
+    "title": "Research",
+    "section": "",
+    "text": "I use machine learning and large language models to quantify dream content and emotional experiences."
+  },
+  {
+    "objectID": "research.html#sleep-health-interventions",
+    "href": "research.html#sleep-health-interventions",
+    "title": "Research",
+    "section": "",
+    "text": "I collaborate on projects investigating insomnia treatment, sleep health, and polysomnographic predictors of treatment outcomes."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#quarto",
+    "href": "contact.html#quarto",
+    "title": "contact",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#running-code",
+    "href": "contact.html#running-code",
+    "title": "contact",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "publications.html#quarto",
+    "href": "publications.html#quarto",
+    "title": "publications",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "publications.html#running-code",
+    "href": "publications.html#running-code",
+    "title": "publications",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
